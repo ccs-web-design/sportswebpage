@@ -6,7 +6,6 @@
 Sitemap:
 <ol>
 <ul><li>Home</ul>
-<ul>Coaches
 <li>/coaches</li>
 </ul>
 <ul>Teams
