@@ -1,5 +1,5 @@
 #sportswebpage
-<i>Project Description: Create sports website for CCS Upper School Athletics</i>
+<i> Create sports website for CCS Upper School Athletics</i>
 
 <b>Project Outline for CCS Sports Web Page</b>
 <br>
