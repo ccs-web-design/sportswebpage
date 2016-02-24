@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Carmel Christian School - Basketball</title>
+    <title>Carmel Christian School Basketball</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -69,8 +69,8 @@
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">About
-                    <small>Subheading</small>
+                <h1 class="page-header">Mens Basketball
+                    <small>2016 SPAA Conference regular season and tournament champioins</small>
                 </h1>
                 <ol class="breadcrumb">
                     <li><a href="index.html">Home</a>
@@ -88,7 +88,8 @@
             </div>
             <div class="col-md-6">
                 <h2>CCS Athletics</h2>
-                <p>this is our team </p>
+                <p>Undefeated in conference for 2016</p>
+                <p>Overall record of 23-8</p>
                     
                     
                 </div>
@@ -104,8 +105,8 @@
                 <div class="thumbnail">
                     <img class="img-responsive" src="http://placehold.it/750x450" alt="">
                     <div class="caption">
-                        <h3>Connor Spies<br>
-                            <small>Job Title</small>
+                        <h3>Josh Coley<br>
+                            <small>Varsity Head Coach</small>
                         </h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
                         <ul class="list-inline">
